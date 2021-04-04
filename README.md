@@ -6,7 +6,7 @@
 
 :globe_with_meridians:  luciaojeda.dev
 
-:email:  lucia.ojeda@gmail.com
+:email:  me@luciaojeda.dev
 
 
 ### Who am I? :woman_technologist:
@@ -18,7 +18,7 @@ In the constant improvement of myself and trying to learn new technologies and n
 
 ### Get in touch :handshake:
 
-:email: Personnal: lucia.ojeda@gmail.com
+:email: Personnal: me@luciaojeda.dev
 
 :baby_chick:  Twitter: twitter.com/luchy18
 
